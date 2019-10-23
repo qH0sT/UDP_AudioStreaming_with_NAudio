@@ -1,0 +1,11 @@
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicReciever.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicReciever.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicReciever.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\DarrenLee.LiveStream.dll
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\NAudio.dll
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\NSpeex.dll
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicReciever.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicReciever.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicReciever.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicReciever.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicReciever.Form1.resources

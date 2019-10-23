@@ -1,0 +1,10 @@
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\bin\Debug\MicSend.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\bin\Debug\MicSend.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\bin\Debug\MicSend.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\bin\Debug\NAudio.dll
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicSend\MicSend\obj\Debug\MicSend.Form1.resources

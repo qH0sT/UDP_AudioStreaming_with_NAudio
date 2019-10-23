@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\NAudio.dll
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicSendUDP.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicSendUDP.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicSendUDP.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\bin\Debug\MicSendUDP.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicSendUDP.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicSendUDP.exe
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicSendUDP.pdb
+c:\users\harun\documents\visual studio 2015\Projects\MicReciever\MicReciever\obj\Debug\MicSendUDP.Form1.resources
