@@ -1,4 +1,4 @@
-MicReciever == MicSender
+MicReciever == MicSender  
 MicSender == MicReceiver  
 I wrote the project names wrong. :)  
 
